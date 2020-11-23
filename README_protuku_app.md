@@ -12,6 +12,7 @@
 https://protuku.com
   
 ## サービス構成図
+  
 ## 主な機能　
 - ユーザー登録機能
 - アカウント有効化機能
@@ -45,18 +46,22 @@ https://protuku.com
   - Docker
   - nginx
 - 本番環境
+  - ALB
+  - ACM
+  - CloudWatch
   - ECS
   - ECR
   - EC2
   - RDS
   - Route53
-  - ACM
   - S3
-  - CloudWatch
+  - VPC
 - CI/CD
   - CircleCI(gitへのpush時にRSpec、Rubocopも実行）
   
-## 今後の課題
+## 今後やっていきたいこと
+- Google アドセンスを設置したり、新機能を追加するなどして、収益化に挑戦してみる。
+- フロントにVue.jsなどを導入し、より良いUI/UXを提供する。
 - Terraformなどでインフラをコードで管理できるようにする。
 - 複雑な処理はサービスクラスを作る、行数の多いコントローラーは分割するなどして、fatなモデルやコントローラーを解消し、コードの見通しを良くする。
-- フロントにVue.jsなどを導入し、より良いUI/UXを提供する。
+
