@@ -12,7 +12,7 @@
 https://protuku.com
   
 ## サービス構成図
-
+![protuku_app_architecture-Page-1](https://user-images.githubusercontent.com/62272140/99930572-e24c6800-2d94-11eb-8576-01966af2e4af.jpg)
   
 ## 主な機能
 ### ユーザー関連
