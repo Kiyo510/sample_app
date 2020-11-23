@@ -13,7 +13,7 @@ https://protuku.com
   
 ## サービス構成図
 
-![protuku_app_architecture-Page-1 (1)](https://user-images.githubusercontent.com/62272140/99931509-24c37400-2d98-11eb-804c-7addb21e33eb.jpg)
+![protuku_app_architecture-Page-1 (2)](https://user-images.githubusercontent.com/62272140/99931620-913e7300-2d98-11eb-9b08-1577c397e4dc.jpg)
 
 
   
