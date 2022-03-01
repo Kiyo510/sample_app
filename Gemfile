@@ -14,7 +14,7 @@ gem 'bootsnap',   '1.4.4', require: false
 gem 'faker',      '2.1.2'
 gem 'will_paginate',           '3.1.8'
 gem 'bootstrap-will_paginate', '1.0.0'
-gem 'image_processing',           '1.9.3'
+gem 'image_processing',           '1.12.2'
 gem 'mini_magick',                '4.9.5'
 
 group :development, :test do
